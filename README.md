@@ -3,7 +3,7 @@ Arduino library for Sequent Microsystems [Sixteen LV Digital Inputs 8-Layer Stac
 
 ## Install
 ### Library manager
-Go to **Tools**>>**Manage Libraries..** menu and search for *SM_TC* and click install 
+Go to **Tools**>>**Manage Libraries..** menu and search for *SM_16DIGIN* and click install 
 ### Manual install
 To download click <>Code > [Download ZIP](https://github.com/SequentMicrosystems/Sequent-16digin-Library/archive/refs/heads/main.zip) button from the main [page](https://github.com/SequentMicrosystems/Sequent-16digin-Library), rename the uncompressed folder to "SM_16DIGIN" 
 and copy to the libraries subdirectory of your sketchbook directory ("This PC > Documents > Arduino > libraries" for a Windows PC
