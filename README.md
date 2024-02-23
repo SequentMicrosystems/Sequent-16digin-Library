@@ -64,6 +64,7 @@ bool begin();
  * @return Returns true if card is present
  */
 bool isAlive();
+
 /*!
  * @brief Read digital ports as a bitmap.
  * @return the state of all inputs
